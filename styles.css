@@ -1,0 +1,43 @@
+* {
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+.guacamole,
+.sandwich,
+.pbandj {
+    font-weight: bold;
+}
+
+.guacamole {
+    text-align: right;
+    background-color: aqua;
+    color: darkblue;
+}
+
+.sandwich {
+    text-align: center;
+    background-color: blueviolet;
+    color: indigo;  
+}
+
+.pbandj {
+    text-align: left;
+    background-color: red;
+    color: darkred;
+    font-weight: bold;
+}
+
+img{
+    height:auto;
+    width: 600px;
+}
+
+p{
+    font-size: 14px;
+}

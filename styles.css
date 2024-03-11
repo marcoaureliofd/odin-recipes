@@ -8,6 +8,7 @@ h1{
     text-align: center;
     background-color: rgb(1, 1, 1);
     color: white;
+    margin: 8px;
 }
 
 a{
@@ -21,4 +22,10 @@ a{
 img{
     height: auto;
     width: 200px;
+}
+
+ul,
+ol{
+    text-align: center;
+    margin: auto;
 }
